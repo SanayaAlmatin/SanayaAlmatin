@@ -1,6 +1,6 @@
 # About Me:
-🏫 Mahasiswa di Universitas Amikom Yogyakarta<br>
-📑 Program Studi Sistem Informasi
+🏫 Student at Amikom University Yogyakarta<br>
+📑 Information Systems
 
 ## Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sanaya_almatin) 
