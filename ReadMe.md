@@ -1,6 +1,7 @@
 # About Me:
-🏫 Student at Amikom University Yogyakarta<br>
-📑 Information Systems
+🏫 Student at IPB University<br>
+📑 Magister Computer Science<br>
+💼 Work at Pemerintah Kota Tangerang Selatan
 
 ## Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sanaya_almatin) 
